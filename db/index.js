@@ -1,0 +1,6 @@
+exports.items 		= new (require('./Item.js'))
+exports.stores  	= new (require('./Store.js'))
+exports.bills 		= new (require('./Bill.js'))
+exports.suppliers 	= new (require('./Supplier.js'))
+exports.stocks 		= new (require('./Stock.js'))
+exports.admins 		= new (require('./Admin.js'))
